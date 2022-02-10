@@ -1,0 +1,158 @@
+/*# if it's an ID, a. if it's a class*/
+#content
+{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+#hero-msg h1
+{
+    text-align: center;   
+}
+
+#hero-msg h4
+{
+    text-align: center;   
+}
+
+.button-box
+{
+    text-align: center;   
+}
+
+main section
+{
+    text-align: center;
+}
+
+#background 
+{
+    height: 725px;
+}
+
+body
+{
+    background-color: #333333; 
+}
+
+header 
+{
+    background-color: #ff781f;
+}
+
+.home-title
+{
+    background-color: #ff781f;
+    color: #36454f;  
+}
+
+nav a
+{
+    text-align: center;
+    color: #ffff;
+    text-decoration: none;
+}
+
+nav a:hover 
+{
+    background-color: #333333;
+    color: #ff781f;
+}
+    
+.book
+{
+    background-color: #36454f;
+    color: #ffff;
+    text-decoration: none;
+}
+
+.book:hover
+{
+    background-color: #333333;
+    color: #ff781f;
+}
+
+.join
+{
+    background-color: #36454f;
+    color: #ffff;
+    text-decoration: none;
+}
+
+
+.join:hover
+{
+    background-color: #36454f;
+    color: #ff781f;
+}
+
+#background
+{
+    background-color: #36454f;
+}
+
+.msg
+{
+    background-color: #878787;
+}
+
+.msg h2
+{
+    background-color: #36454f;
+    color: #ff781f;  
+}
+
+.msg p
+{
+    background-color: #878787;
+}
+
+footer
+{
+    background-color: #ff781f;
+    text-decoration: underline;
+}
+
+footer a
+{
+    color: #ffff;
+    text-decoration: none;
+}
+
+footer a:hover
+{
+    background-color: #36454f;
+    color: #ff781f;  
+}
+
+h4
+{
+    background-color: #36454f;
+    color: #ff781f; 
+}
+
+h3
+{
+   color:#333333;
+   text-decoration: underline;
+}
+
+.logo 
+{
+    width: 80px;
+}
+
+.icon
+{
+    width: 80px;
+}
+
+#hero-img
+{
+    width: 100%; 
+}
+
+a:hover 
+{
+    text-decoration: underline;
+}
